@@ -26,7 +26,7 @@ export const data = [
     {
         id: 2,
         img: img2,
-        name: 'Hasanov Muhammadabdulloh',
+        name: 'Hasanov Abdulloh',
         project: [
             {
                 id:1,
@@ -73,12 +73,12 @@ export const data = [
     },
     {
         id: 6,
-        img: img6,
+        img: img5,
         name: 'begzod',
         project: [
             {
                 id:1,
-                img:img6,
+                img:img5,
                 link:'https://umar-website.vercel.app/'
             }
         ]
@@ -91,6 +91,18 @@ export const data = [
             {
                 id:1,
                 img:img7,
+                link: 'https://my-first-portfolio001.netlify.app'
+            }
+        ]
+    },
+    {
+        id: 8,
+        img: img6,
+        name: 'Muxtorjonov Azizbek',
+        project: [
+            {
+                id:1,
+                img:img6,
                 link: 'https://my-first-portfolio001.netlify.app'
             }
         ]
