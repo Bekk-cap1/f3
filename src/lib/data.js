@@ -19,7 +19,7 @@ export const data = [
             {
                 id:1,
                 img:img1,
-                link:'https://bizness-site.vercel.app'
+                link:'https://abdulbosid.vercel.app/'
             },
         ]
     },
