@@ -31,7 +31,7 @@ export const data = [
             {
                 id:1,
                 img:img2,
-                link:'https://bizness-site.vercel.app'
+                link:'https://my-personal-portfolio-neon.vercel.app/'
             }
         ]
     },
@@ -62,12 +62,12 @@ export const data = [
     {
         id: 5,
         img: img8,
-        name: 'Abdurizo',
+        name: 'Abdurazzoq',
         project: [
             {
                 id:1,
                 img:img8,
-                link:'https://bizness-site.vercel.app'
+                link:'hhttps://mrhakimov.vercel.app/'
             }
         ]
     },
@@ -98,7 +98,7 @@ export const data = [
     {
         id: 8,
         img: img6,
-        name: 'Muxtorjonov Azizbek',
+        name: 'Abdulazizov Muhammadiy',
         project: [
             {
                 id:1,
